@@ -1,0 +1,16 @@
+[
+  {
+    "Author": "Forked-by-Bastaklis",
+    "Name": "Weatherman-Temp",
+    "InternalName": "Weatherman-Temp",
+    "AssemblyVersion": "0.1",
+    "Description": "Temporary solution until required IPC can be added to main Weatherman repo.",
+    "Punchline": "Temp",
+    "ApplicableVersion": "any",
+    "Tags": ["reshade", "weather", "zone", "automation"],
+    "RepoUrl": "https://github.com/Bastaklis1/Weatherman",
+    "DownloadLinkInstall": "https://github.com/Bastaklis1/Weatherman/Presetway/releases/download/v0.1/Weatherman.zip",
+    "DownloadLinkUpdate": "https://github.com/Bastaklis1/Weatherman/Presetway/releases/download/v0.1/Weatherman.zip",
+    "DownloadLinkTesting": "https://github.com/Bastaklis1/Weatherman/Presetway/releases/download/v0.1/Weatherman.zip"
+  }
+]
