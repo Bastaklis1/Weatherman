@@ -1,3 +1,6 @@
+# Presetway Compatibility Version
+https://raw.githubusercontent.com/Bastaklis1/Weatherman/Presetway_Compatibility/pluginmaster.json
+
 # Weatherman
 Don't wait for perfect weather. Create it yourself!
 Weatherman allows you to take precise control over weather and time flow in FFXIV. From as simple things as removing rains or bringing everlasting day to precise selection of weather and time for every single zone individually - Weatherman got you covered.
