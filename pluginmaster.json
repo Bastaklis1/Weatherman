@@ -3,7 +3,7 @@
     "Author": "NightmareXIV_Forked-by-Bastaklis",
     "Name": "Weatherman-Temp",
     "InternalName": "Weatherman-Temp",
-    "AssemblyVersion": "0.1",
+    "AssemblyVersion": "2.5.0.6",
     "Description": "Temporary solution until required IPC can be added to main Weatherman repo.",
     "Punchline": "Temp",
     "ApplicableVersion": "any",
