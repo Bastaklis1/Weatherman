@@ -1,6 +1,6 @@
 # Unofficial Presetway Compatibility Version
 NOT functional at this time. I have no idea what I'm doing and the fix works when using it as a dev plugin but I'm having issues re-building and having Dalamud recognize and install it.
-https://raw.githubusercontent.com/Bastaklis1/Weatherman/Presetway_Compatibility/pluginmaster.json
+```https://raw.githubusercontent.com/Bastaklis1/Weatherman/Presetway_Compatibility/pluginmaster.json```
 
 # Weatherman
 Don't wait for perfect weather. Create it yourself!
