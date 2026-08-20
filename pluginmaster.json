@@ -8,7 +8,7 @@
     "Punchline": "Temp",
     "ApplicableVersion": "any",
     "Tags": ["reshade", "weather", "zone", "automation"],
-    "RepoUrl": "https://github.com/Bastaklis1/Weatherman/tree/Presetway_Compatibility",
+    "RepoUrl": "https://github.com/Bastaklis1/Weatherman/tree/Presettingway_Compatibility",
     "DownloadLinkInstall": "https://github.com/Bastaklis1/Weatherman/releases/download/v0.1/Weatherman-Temp.zip",
     "DownloadLinkUpdate": "https://github.com/Bastaklis1/Weatherman/releases/download/v0.1/Weatherman-Temp.zip",
     "DownloadLinkTesting": "https://github.com/Bastaklis1/Weatherman/releases/download/v0.1/Weatherman-Temp.zip"
